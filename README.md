@@ -4,6 +4,7 @@ Simply sign your name under each PR section in the relevant PR branch, commit, a
 
 Branch PR1 is for making your first pull request.
 - Kristopher Crump
+- Kelsey Crump
 
 Branch PR2 is for making your second pull request.
 - Kristopher Crump
